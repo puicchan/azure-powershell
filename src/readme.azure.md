@@ -5,8 +5,8 @@
 azure: true
 powershell: true
 license-header: MICROSOFT_MIT_NO_VERSION
-branch: resource-hybrid-profile-fix
-repo: https://github.com/Azure/azure-rest-api-specs/blob/$(branch)
+branch: costmanagement
+repo: https://github.com/puicchan/azure-rest-api-specs/blob/$(branch)
 metadata:
   authors: Microsoft Corporation
   owners: Microsoft Corporation
